@@ -6,7 +6,7 @@ Here you'll find Python scripts used for 6 problems visited in a Metaheuristics 
 3. n-queen problem: Simulated Annealing
 4. CVRP: Genetic Algorithm
 
--PDPTW: Large Neighborhood Search
--MKP: Iterated Local Search
+- PDPTW: Large Neighborhood Search
+- MKP: Iterated Local Search
 
 All code is mine except where noted. Contributions by David Eppstein in HW1 and Damian Pirchio in HW4. Python 3.8 or later is needed for some scripts. 
