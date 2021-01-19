@@ -1,0 +1,9 @@
+Instancia: ./P/P-n16-k8.vrp | Función Objetivo: 451.335080208618 | Tiempo Computacional (s): 9.824016931
+Ruta 1: [11, 4]
+Ruta 2: [3, 9, 5]
+Ruta 3: [6]
+Ruta 4: [14, 7]
+Ruta 5: [8, 13]
+Ruta 6: [2]
+Ruta 7: [10, 12, 15]
+Ruta 8: [1]
